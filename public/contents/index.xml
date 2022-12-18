@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on Portfolio</title>
-    <link>www.example.com/contents/</link>
+    <link>https://matejsmycka.github.io/personal-web/contents/</link>
     <description>Recent content in Overview on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="www.example.com/contents/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://matejsmycka.github.io/personal-web/contents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certifications</title>
-      <link>www.example.com/contents/certifications/certs/</link>
+      <link>https://matejsmycka.github.io/personal-web/contents/certifications/certs/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/contents/certifications/certs/</guid>
+      <guid>https://matejsmycka.github.io/personal-web/contents/certifications/certs/</guid>
       <description>Licenses &amp;amp; certifications listed on linkedIn.</description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>www.example.com/contents/courses/courses/</link>
+      <link>https://matejsmycka.github.io/personal-web/contents/courses/courses/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/contents/courses/courses/</guid>
+      <guid>https://matejsmycka.github.io/personal-web/contents/courses/courses/</guid>
       <description>&lt;p&gt;Here is list of courses that I passed on MUNI FI, relevant to CS.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects and work</title>
-      <link>www.example.com/contents/projects/projects/</link>
+      <link>https://matejsmycka.github.io/personal-web/contents/projects/projects/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/contents/projects/projects/</guid>
+      <guid>https://matejsmycka.github.io/personal-web/contents/projects/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>www.example.com/contents/skills/skills/</link>
+      <link>https://matejsmycka.github.io/personal-web/contents/skills/skills/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/contents/skills/skills/</guid>
+      <guid>https://matejsmycka.github.io/personal-web/contents/skills/skills/</guid>
       <description></description>
     </item>
     

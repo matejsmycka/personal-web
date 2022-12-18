@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Martian+Mono:300,400,500,700|Lora:400,700|Roboto+Mono:300,400");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Lora:400,700|Roboto+Mono:300,400");
 *,
 *::before,
 *::after {
@@ -9,7 +9,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(2, 2, 2, 0); }
+  -webkit-tap-highlight-color: rgba(33, 37, 41, 0); }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
@@ -1090,13 +1090,13 @@ button.bg-dark:focus {
   white-space: normal; }
 
 .shadow-sm {
-  box-shadow: 0 0.125rem 0.25rem rgba(2, 2, 2, 0.075) !important; }
+  box-shadow: 0 0.125rem 0.25rem rgba(33, 37, 41, 0.075) !important; }
 
 .shadow {
-  box-shadow: 0 0.5rem 1rem rgba(2, 2, 2, 0.15) !important; }
+  box-shadow: 0 0.5rem 1rem rgba(33, 37, 41, 0.15) !important; }
 
 .shadow-lg {
-  box-shadow: 0 1rem 3rem rgba(2, 2, 2, 0.175) !important; }
+  box-shadow: 0 1rem 3rem rgba(33, 37, 41, 0.175) !important; }
 
 .shadow-none {
   box-shadow: none !important; }
@@ -6036,7 +6036,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: #6c757d !important; }
 
 .text-black-50 {
-  color: rgba(2, 2, 2, 0.5) !important; }
+  color: rgba(33, 37, 41, 0.5) !important; }
 
 .text-white-50 {
   color: rgba(255, 255, 255, 0.5) !important; }
@@ -6686,11 +6686,11 @@ a.text-dark:hover, a.text-dark:focus {
   border: 0; }
 
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(2, 2, 2, 0.05); }
+  background-color: rgba(33, 37, 41, 0.05); }
 
 .table-hover tbody tr:hover {
   color: #212529;
-  background-color: rgba(2, 2, 2, 0.075); }
+  background-color: rgba(33, 37, 41, 0.075); }
 
 .table-primary,
 .table-primary > th,
@@ -6831,13 +6831,13 @@ a.text-dark:hover, a.text-dark:focus {
 .table-active,
 .table-active > th,
 .table-active > td {
-  background-color: rgba(2, 2, 2, 0.075); }
+  background-color: rgba(33, 37, 41, 0.075); }
 
 .table-hover .table-active:hover {
-  background-color: rgba(0, 0, 0, 0.075); }
+  background-color: rgba(22, 24, 27, 0.075); }
   .table-hover .table-active:hover > td,
   .table-hover .table-active:hover > th {
-    background-color: rgba(0, 0, 0, 0.075); }
+    background-color: rgba(22, 24, 27, 0.075); }
 
 .table .thead-dark th, .content table .thead-dark th {
   color: #fff;
@@ -7267,7 +7267,7 @@ p {
   font-family: "Roboto", Arial, sans-serif, -apple-system;
   font-size: 1rem;
   line-height: 1.4;
-  color: #1c1c1c;
+  color: #383f45;
   font-weight: 400; }
 
 .page {
@@ -7416,7 +7416,7 @@ p {
       display: block;
       width: 70px; } }
   .logo img {
-    width: 50%;
+    width: 100%;
     height: auto; }
   .logo a {
     display: block;
@@ -7556,7 +7556,7 @@ p {
       color: #7c95f8;
       font-weight: 400; }
     .docs-menu ul li a {
-      color: #020202; }
+      color: #212529; }
       .docs-menu ul li a:hover {
         color: #4c6ef5; }
 
@@ -7676,7 +7676,7 @@ p {
     font-family: "Roboto", Arial, sans-serif, -apple-system;
     font-size: 1rem;
     line-height: 1.4;
-    color: #1c1c1c;
+    color: #383f45;
     font-weight: 400; }
   .content h1 {
     font-family: "Roboto", Arial, sans-serif, -apple-system;
@@ -7832,7 +7832,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
-  color: #020202; }
+  color: #212529; }
 
 .container {
   padding-left: 20px;

@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.example.com/contents/certifications/certs/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/contents/certifications/certs/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>www.example.com/contents/courses/courses/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/contents/courses/courses/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>www.example.com/contents/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/contents/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>www.example.com/contents/projects/projects/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/contents/projects/projects/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>www.example.com/contents/skills/skills/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/contents/skills/skills/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>www.example.com/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>www.example.com/categories/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/categories/</loc>
   </url><url>
-    <loc>www.example.com/tags/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/tags/</loc>
   </url>
 </urlset>

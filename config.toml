@@ -1,8 +1,7 @@
-baseURL = "www.example.com"
+baseURL = "https://matejsmycka.github.io/personal-web/"
 languageCode = "en-us"
 title = "Portfolio"
-themesDir = "themes"
-theme = "hugo-whisper-theme"
+themesDir = "./"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
