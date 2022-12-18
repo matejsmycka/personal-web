@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://matejsmycka.github.io/personal-web/contents/certifications/certs/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/contents/certifications/certs/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/contents/courses/courses/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/contents/courses/courses/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/contents/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/contents/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/contents/projects/projects/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/contents/projects/projects/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/contents/skills/skills/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/contents/skills/skills/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/categories/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/categories/</loc>
   </url><url>
-    <loc>https://matejsmycka.github.io/personal-web/tags/</loc>
+    <loc>https://matejsmycka.github.io/personal-web/public/tags/</loc>
   </url>
 </urlset>
