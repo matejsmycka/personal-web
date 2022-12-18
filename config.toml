@@ -23,7 +23,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Content"
-    url = "/contents/"
+    url = "/personal-web/contents/"
     weight = 2
 
 [params]
