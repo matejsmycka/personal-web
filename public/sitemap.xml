@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>www.example.com/contents/certifications/certs/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>www.example.com/contents/courses/courses/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>www.example.com/contents/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>www.example.com/contents/projects/projects/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>www.example.com/contents/skills/skills/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>www.example.com/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>www.example.com/categories/</loc>
+  </url><url>
+    <loc>www.example.com/tags/</loc>
+  </url>
+</urlset>

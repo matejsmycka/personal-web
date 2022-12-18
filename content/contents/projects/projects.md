@@ -1,0 +1,21 @@
+---
+title: 'Projects and work'
+date: 2018-11-28T15:14:39+10:00
+weight: 1
+---
+
+<!--more-->
+
+### Repositaries
+
+- [Personal GitLab](https://gitlab.ics.muni.cz/525073)
+- [Work GitLab](https://gitlab.ics.muni.cz/penetration-testing-public)
+- [Personal GitHub](https://github.com/MatejSmycka)
+
+### Cybersecurity
+
+[Projects listed on linkedIn.](https://www.linkedin.com/in/mat%C4%9Bj-smy%C4%8Dka-7769b6214/details/projects/")
+
+### Art
+
+[DevianArt](https://www.deviantart.com/user6566454565446/gallery)
