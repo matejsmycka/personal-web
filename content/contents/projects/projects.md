@@ -17,7 +17,7 @@ My work devided by field.
 ### Cybersecurity
 
 - [TryHackMe profile](https://tryhackme.com/p/matejsmycka)
-- [Projects listed on linkedIn.](https://www.linkedin.com/in/mat%C4%9Bj-smy%C4%8Dka-7769b6214/details/projects/")
+- [Projects listed on linkedIn.](https://www.linkedin.com/in/mat%C4%9Bj-smy%C4%8Dka-7769b6214/details/projects)
 
 ### Art
 
