@@ -1,4 +1,4 @@
-baseURL = "https://matejsmycka.github.io/personal-web/"
+baseURL = "https://matejsmycka.github.io/personal-web/public/"
 languageCode = "en-us"
 title = "Portfolio"
 themesDir = "./"
