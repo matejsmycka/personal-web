@@ -23,12 +23,12 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Content"
-    url = "/personal-web/contents/"
+    url = "/contents/"
     weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/contents/'
+  homepage_button_link = '/personal-web/contents/'
   homepage_button_text = 'Continue'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   # homepage_image = '/images/'
