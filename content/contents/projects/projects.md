@@ -11,7 +11,6 @@ My work devided by field.
 ### Programming
 
 - [Personal GitLab](https://gitlab.ics.muni.cz/525073)
-- [Work GitLab](https://gitlab.ics.muni.cz/penetration-testing-public)
 - [Personal GitHub](https://github.com/MatejSmycka)
 
 ### Cybersecurity
