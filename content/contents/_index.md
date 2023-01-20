@@ -6,4 +6,4 @@ weight: 1
 
 ## Portfolio tree
 
- Collection of my work and projects, organized by field of study.
+ Collection of my work and projects.
