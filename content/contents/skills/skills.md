@@ -14,7 +14,7 @@ weight: 1
 | Ansible | Python | React| Bash | Flask (Python) |
 | Terraform | C (programming language) | CSS | SQL | NextJS |
 | Docker | TypeScript | HTML | PowerShell | Actix Web (Rust) |
-| OpenStack | PHP | TailWind CSS | | WordPress |
+| OpenStack | PHP | TailWind CSS | LaTeX | WordPress |
 |  | Rust (hobbyist) |  |  | Hugo |
 
 # Other
