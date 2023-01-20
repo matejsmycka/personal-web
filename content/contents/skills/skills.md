@@ -11,11 +11,11 @@ weight: 1
 
 | DevOps | Back-end or scripting | Front-end| Misc | WebApp Frameworks |
 |---|---|---|---|---|
-| Ansible | Python | React| Bash | Flask |
+| Ansible | Python | React| Bash | Flask (Python) |
 | Terraform | C (programming language) | CSS | SQL | NextJS |
-| Docker | TypeScript | HTML | PowerShell | Actix Web |
+| Docker | TypeScript | HTML | PowerShell | Actix Web (Rust) |
 | OpenStack | PHP | TailWind CSS | | WordPress |
-|  | Rust |  |  | Hugo |
+|  | Rust (hobbyist) |  |  | Hugo |
 
 # Other
 
