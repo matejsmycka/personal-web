@@ -7,6 +7,14 @@ weight: 1
 Here is list of courses that I passed on MUNI FI, relevant to Computer Science.
 
 <!--more-->
+### 3
+
+- ICT Law II
+- Mathematical Foundations of Computer Science
+- Software Engineering I
+- Introduction to DB and IS
+- Applied Information Systems
+- MS Windows Systems Management I
 
 ### 2 
 
