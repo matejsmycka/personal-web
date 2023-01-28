@@ -9,13 +9,13 @@ weight: 1
 
 # Familiar Technologies
 
-| DevOps | Back-end or scripting | Front-end| Misc | WebApp Frameworks |
-|---|---|---|---|---|
-| Ansible | Python | React| Bash | Flask (Python) |
-| Terraform | C (programming language) | CSS | SQL | NextJS |
+| DevOps | Back-end or scripting | Front-end| Misc | WebApp Frameworks | CMS
+|---|---|---|---|---|---|
+| Ansible | Python | React| Bash | Flask (Python) | WordPress |
+| Terraform | C | CSS | SQL | NextJS | Hugo |
 | Docker | TypeScript | HTML | PowerShell | Actix Web (Rust) |
-| OpenStack | PHP | TailWind CSS | LaTeX | WordPress |
-|  | Rust (hobbyist) |  |  | Hugo |
+| OpenStack | PHP | TailWind CSS | LaTeX |  |
+| | Rust (beginner) | | | |
 
 # Other
 
