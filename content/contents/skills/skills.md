@@ -14,8 +14,8 @@ weight: 1
 | Ansible | Python | React| Bash | Flask (Python) | WordPress |
 | Terraform | C | CSS | SQL | NextJS | Hugo |
 | Docker | TypeScript | HTML | PowerShell | Actix Web (Rust) |
-| OpenStack | PHP |  | LaTeX |  |
-| | Rust (beginner) | | | |
+| OpenStack | Java |  | LaTeX |  |
+| | | | | |
 
 # Other
 
